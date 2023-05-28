@@ -22,4 +22,3 @@ for (let i = 0; i < size; i++) {
 	    process.stdout.write("\n");
 }
 
-process.stdout.write("\n");  // Add a new line at the end
